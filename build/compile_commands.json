@@ -1,0 +1,47 @@
+[
+{
+  "directory": "/home/marc/Desktop/OpenGL engine/MyEngine2D/code/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/SHADER.dir/myEngine/Shader.cpp.o -c \"/home/marc/Desktop/OpenGL engine/MyEngine2D/code/myEngine/Shader.cpp\"",
+  "file": "/home/marc/Desktop/OpenGL engine/MyEngine2D/code/myEngine/Shader.cpp"
+},
+{
+  "directory": "/home/marc/Desktop/OpenGL engine/MyEngine2D/code/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/CAMERA.dir/myEngine/Camera.cpp.o -c \"/home/marc/Desktop/OpenGL engine/MyEngine2D/code/myEngine/Camera.cpp\"",
+  "file": "/home/marc/Desktop/OpenGL engine/MyEngine2D/code/myEngine/Camera.cpp"
+},
+{
+  "directory": "/home/marc/Desktop/OpenGL engine/MyEngine2D/code/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/SCENE.dir/myEngine/Scene.cpp.o -c \"/home/marc/Desktop/OpenGL engine/MyEngine2D/code/myEngine/Scene.cpp\"",
+  "file": "/home/marc/Desktop/OpenGL engine/MyEngine2D/code/myEngine/Scene.cpp"
+},
+{
+  "directory": "/home/marc/Desktop/OpenGL engine/MyEngine2D/code/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/ENTITY.dir/myEngine/Entity.cpp.o -c \"/home/marc/Desktop/OpenGL engine/MyEngine2D/code/myEngine/Entity.cpp\"",
+  "file": "/home/marc/Desktop/OpenGL engine/MyEngine2D/code/myEngine/Entity.cpp"
+},
+{
+  "directory": "/home/marc/Desktop/OpenGL engine/MyEngine2D/code/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/MYENGINE.dir/myEngine/MyEngine.cpp.o -c \"/home/marc/Desktop/OpenGL engine/MyEngine2D/code/myEngine/MyEngine.cpp\"",
+  "file": "/home/marc/Desktop/OpenGL engine/MyEngine2D/code/myEngine/MyEngine.cpp"
+},
+{
+  "directory": "/home/marc/Desktop/OpenGL engine/MyEngine2D/code/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/PLAYER.dir/Player.cpp.o -c \"/home/marc/Desktop/OpenGL engine/MyEngine2D/code/Player.cpp\"",
+  "file": "/home/marc/Desktop/OpenGL engine/MyEngine2D/code/Player.cpp"
+},
+{
+  "directory": "/home/marc/Desktop/OpenGL engine/MyEngine2D/code/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/ENEMY.dir/Enemy.cpp.o -c \"/home/marc/Desktop/OpenGL engine/MyEngine2D/code/Enemy.cpp\"",
+  "file": "/home/marc/Desktop/OpenGL engine/MyEngine2D/code/Enemy.cpp"
+},
+{
+  "directory": "/home/marc/Desktop/OpenGL engine/MyEngine2D/code/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/myengine2D.dir/main.cpp.o -c \"/home/marc/Desktop/OpenGL engine/MyEngine2D/code/main.cpp\"",
+  "file": "/home/marc/Desktop/OpenGL engine/MyEngine2D/code/main.cpp"
+},
+{
+  "directory": "/home/marc/Desktop/OpenGL engine/MyEngine2D/code/build",
+  "command": "/usr/bin/gcc   -g -o CMakeFiles/myengine2D.dir/glad.c.o -c \"/home/marc/Desktop/OpenGL engine/MyEngine2D/code/glad.c\"",
+  "file": "/home/marc/Desktop/OpenGL engine/MyEngine2D/code/glad.c"
+}
+]

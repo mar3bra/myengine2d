@@ -1,0 +1,2 @@
+/usr/bin/ar qc libENTITY.a CMakeFiles/ENTITY.dir/myEngine/Entity.cpp.o
+/usr/bin/ranlib libENTITY.a
