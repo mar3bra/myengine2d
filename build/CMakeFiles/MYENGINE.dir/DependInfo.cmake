@@ -8,15 +8,15 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/marc/Desktop/OpenGL engine/MyEngine2D/code/myEngine/MyEngine.cpp" "CMakeFiles/MYENGINE.dir/myEngine/MyEngine.cpp.o" "gcc" "CMakeFiles/MYENGINE.dir/myEngine/MyEngine.cpp.o.d"
+  "/home/marc/Desktop/OpenGL engine/mar3bra/myengine2d/myEngine/MyEngine.cpp" "CMakeFiles/MYENGINE.dir/myEngine/MyEngine.cpp.o" "gcc" "CMakeFiles/MYENGINE.dir/myEngine/MyEngine.cpp.o.d"
   )
 
 # Targets to which this target links.
 set(CMAKE_TARGET_LINKED_INFO_FILES
-  "/home/marc/Desktop/OpenGL engine/MyEngine2D/code/build/CMakeFiles/SHADER.dir/DependInfo.cmake"
-  "/home/marc/Desktop/OpenGL engine/MyEngine2D/code/build/CMakeFiles/CAMERA.dir/DependInfo.cmake"
-  "/home/marc/Desktop/OpenGL engine/MyEngine2D/code/build/CMakeFiles/ENTITY.dir/DependInfo.cmake"
-  "/home/marc/Desktop/OpenGL engine/MyEngine2D/code/build/CMakeFiles/SCENE.dir/DependInfo.cmake"
+  "/home/marc/Desktop/OpenGL engine/mar3bra/myengine2d/build/CMakeFiles/SHADER.dir/DependInfo.cmake"
+  "/home/marc/Desktop/OpenGL engine/mar3bra/myengine2d/build/CMakeFiles/CAMERA.dir/DependInfo.cmake"
+  "/home/marc/Desktop/OpenGL engine/mar3bra/myengine2d/build/CMakeFiles/ENTITY.dir/DependInfo.cmake"
+  "/home/marc/Desktop/OpenGL engine/mar3bra/myengine2d/build/CMakeFiles/SCENE.dir/DependInfo.cmake"
   )
 
 # Fortran module output directory.

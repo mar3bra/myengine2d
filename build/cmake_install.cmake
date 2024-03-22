@@ -1,4 +1,4 @@
-# Install script for directory: /home/marc/Desktop/OpenGL engine/MyEngine2D/code
+# Install script for directory: /home/marc/Desktop/OpenGL engine/mar3bra/myengine2d
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/marc/Desktop/OpenGL engine/MyEngine2D/code/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/marc/Desktop/OpenGL engine/mar3bra/myengine2d/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

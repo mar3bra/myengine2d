@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/marc/Desktop/OpenGL engine/MyEngine2D/code/myEngine/Scene.cpp" "CMakeFiles/SCENE.dir/myEngine/Scene.cpp.o" "gcc" "CMakeFiles/SCENE.dir/myEngine/Scene.cpp.o.d"
+  "/home/marc/Desktop/OpenGL engine/mar3bra/myengine2d/myEngine/Scene.cpp" "CMakeFiles/SCENE.dir/myEngine/Scene.cpp.o" "gcc" "CMakeFiles/SCENE.dir/myEngine/Scene.cpp.o.d"
   )
 
 # Targets to which this target links.

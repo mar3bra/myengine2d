@@ -1,7 +1,7 @@
 CMakeFiles/CAMERA.dir/myEngine/Camera.cpp.o: \
- /home/marc/Desktop/OpenGL\ engine/MyEngine2D/code/myEngine/Camera.cpp \
+ /home/marc/Desktop/OpenGL\ engine/mar3bra/myengine2d/myEngine/Camera.cpp \
  /usr/include/stdc-predef.h \
- /home/marc/Desktop/OpenGL\ engine/MyEngine2D/code/myEngine/Camera.hpp \
+ /home/marc/Desktop/OpenGL\ engine/mar3bra/myengine2d/myEngine/Camera.hpp \
  /usr/include/glm/glm.hpp /usr/include/glm/detail/_fixes.hpp \
  /usr/include/c++/11/cmath \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
@@ -227,8 +227,8 @@ CMakeFiles/CAMERA.dir/myEngine/Camera.cpp.o: \
  /usr/include/glm/ext/matrix_transform.hpp \
  /usr/include/glm/ext/matrix_transform.inl \
  /usr/include/glm/gtc/matrix_transform.inl \
- /home/marc/Desktop/OpenGL\ engine/MyEngine2D/code/myEngine/Shader.hpp \
- /home/marc/Desktop/OpenGL\ engine/MyEngine2D/code/myEngine/../glad.h \
+ /home/marc/Desktop/OpenGL\ engine/mar3bra/myengine2d/myEngine/Shader.hpp \
+ /home/marc/Desktop/OpenGL\ engine/mar3bra/myengine2d/myEngine/../glad.h \
  /usr/include/KHR/khrplatform.h /usr/include/c++/11/string \
  /usr/include/c++/11/bits/stringfwd.h \
  /usr/include/c++/11/bits/memoryfwd.h \

@@ -1,9 +1,9 @@
 CMakeFiles/myengine2D.dir/main.cpp.o: \
- /home/marc/Desktop/OpenGL\ engine/MyEngine2D/code/main.cpp \
+ /home/marc/Desktop/OpenGL\ engine/mar3bra/myengine2d/main.cpp \
  /usr/include/stdc-predef.h \
- /home/marc/Desktop/OpenGL\ engine/MyEngine2D/code/myEngine/MyEngine.cpp \
- /home/marc/Desktop/OpenGL\ engine/MyEngine2D/code/myEngine/MyEngine.hpp \
- /home/marc/Desktop/OpenGL\ engine/MyEngine2D/code/myEngine/../glad.h \
+ /home/marc/Desktop/OpenGL\ engine/mar3bra/myengine2d/myEngine/MyEngine.cpp \
+ /home/marc/Desktop/OpenGL\ engine/mar3bra/myengine2d/myEngine/MyEngine.hpp \
+ /home/marc/Desktop/OpenGL\ engine/mar3bra/myengine2d/myEngine/../glad.h \
  /usr/include/KHR/khrplatform.h \
  /usr/lib/gcc/x86_64-linux-gnu/11/include/stdint.h /usr/include/stdint.h \
  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
@@ -350,26 +350,26 @@ CMakeFiles/myengine2D.dir/main.cpp.o: \
  /usr/include/c++/11/bits/basic_ios.tcc \
  /usr/include/c++/11/bits/ostream.tcc /usr/include/c++/11/istream \
  /usr/include/c++/11/bits/istream.tcc \
- /home/marc/Desktop/OpenGL\ engine/MyEngine2D/code/myEngine/Camera.hpp \
- /home/marc/Desktop/OpenGL\ engine/MyEngine2D/code/myEngine/Shader.hpp \
+ /home/marc/Desktop/OpenGL\ engine/mar3bra/myengine2d/myEngine/Camera.hpp \
+ /home/marc/Desktop/OpenGL\ engine/mar3bra/myengine2d/myEngine/Shader.hpp \
  /usr/include/c++/11/fstream /usr/include/c++/11/bits/codecvt.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/basic_file.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++io.h \
  /usr/include/c++/11/bits/fstream.tcc /usr/include/c++/11/sstream \
  /usr/include/c++/11/bits/sstream.tcc \
- /home/marc/Desktop/OpenGL\ engine/MyEngine2D/code/myEngine/Scene.hpp \
- /home/marc/Desktop/OpenGL\ engine/MyEngine2D/code/myEngine/Entity.hpp \
+ /home/marc/Desktop/OpenGL\ engine/mar3bra/myengine2d/myEngine/Scene.hpp \
+ /home/marc/Desktop/OpenGL\ engine/mar3bra/myengine2d/myEngine/Entity.hpp \
  /usr/include/c++/11/vector /usr/include/c++/11/bits/stl_uninitialized.h \
  /usr/include/c++/11/bits/stl_vector.h \
  /usr/include/c++/11/bits/stl_bvector.h \
  /usr/include/c++/11/bits/vector.tcc \
- /home/marc/Desktop/OpenGL\ engine/MyEngine2D/code/myEngine/../stb_image.h \
+ /home/marc/Desktop/OpenGL\ engine/mar3bra/myengine2d/myEngine/../stb_image.h \
  /usr/include/c++/11/stdlib.h /usr/include/c++/11/math.h \
  /usr/lib/gcc/x86_64-linux-gnu/11/include/emmintrin.h \
  /usr/lib/gcc/x86_64-linux-gnu/11/include/xmmintrin.h \
  /usr/lib/gcc/x86_64-linux-gnu/11/include/mmintrin.h \
  /usr/lib/gcc/x86_64-linux-gnu/11/include/mm_malloc.h \
- /home/marc/Desktop/OpenGL\ engine/MyEngine2D/code/myEngine/Scene.hpp \
- /home/marc/Desktop/OpenGL\ engine/MyEngine2D/code/Player.hpp \
- /home/marc/Desktop/OpenGL\ engine/MyEngine2D/code/myEngine/Entity.hpp \
- /home/marc/Desktop/OpenGL\ engine/MyEngine2D/code/Enemy.hpp
+ /home/marc/Desktop/OpenGL\ engine/mar3bra/myengine2d/myEngine/Scene.hpp \
+ /home/marc/Desktop/OpenGL\ engine/mar3bra/myengine2d/Player.hpp \
+ /home/marc/Desktop/OpenGL\ engine/mar3bra/myengine2d/myEngine/Entity.hpp \
+ /home/marc/Desktop/OpenGL\ engine/mar3bra/myengine2d/Enemy.hpp

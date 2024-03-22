@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "/home/marc/Desktop/OpenGL engine/MyEngine2D/code"
+CMAKE_SOURCE_DIR = "/home/marc/Desktop/OpenGL engine/mar3bra/myengine2d"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "/home/marc/Desktop/OpenGL engine/MyEngine2D/code/build"
+CMAKE_BINARY_DIR = "/home/marc/Desktop/OpenGL engine/mar3bra/myengine2d/build"
 
 # Include any dependencies generated for this target.
 include CMakeFiles/myengine2D.dir/depend.make
@@ -72,30 +72,30 @@ include CMakeFiles/myengine2D.dir/flags.make
 CMakeFiles/myengine2D.dir/main.cpp.o: CMakeFiles/myengine2D.dir/flags.make
 CMakeFiles/myengine2D.dir/main.cpp.o: ../main.cpp
 CMakeFiles/myengine2D.dir/main.cpp.o: CMakeFiles/myengine2D.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/marc/Desktop/OpenGL engine/MyEngine2D/code/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/myengine2D.dir/main.cpp.o"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/myengine2D.dir/main.cpp.o -MF CMakeFiles/myengine2D.dir/main.cpp.o.d -o CMakeFiles/myengine2D.dir/main.cpp.o -c "/home/marc/Desktop/OpenGL engine/MyEngine2D/code/main.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/marc/Desktop/OpenGL engine/mar3bra/myengine2d/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/myengine2D.dir/main.cpp.o"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/myengine2D.dir/main.cpp.o -MF CMakeFiles/myengine2D.dir/main.cpp.o.d -o CMakeFiles/myengine2D.dir/main.cpp.o -c "/home/marc/Desktop/OpenGL engine/mar3bra/myengine2d/main.cpp"
 
 CMakeFiles/myengine2D.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/myengine2D.dir/main.cpp.i"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/marc/Desktop/OpenGL engine/MyEngine2D/code/main.cpp" > CMakeFiles/myengine2D.dir/main.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/marc/Desktop/OpenGL engine/mar3bra/myengine2d/main.cpp" > CMakeFiles/myengine2D.dir/main.cpp.i
 
 CMakeFiles/myengine2D.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/myengine2D.dir/main.cpp.s"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/marc/Desktop/OpenGL engine/MyEngine2D/code/main.cpp" -o CMakeFiles/myengine2D.dir/main.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/marc/Desktop/OpenGL engine/mar3bra/myengine2d/main.cpp" -o CMakeFiles/myengine2D.dir/main.cpp.s
 
 CMakeFiles/myengine2D.dir/glad.c.o: CMakeFiles/myengine2D.dir/flags.make
 CMakeFiles/myengine2D.dir/glad.c.o: ../glad.c
 CMakeFiles/myengine2D.dir/glad.c.o: CMakeFiles/myengine2D.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/marc/Desktop/OpenGL engine/MyEngine2D/code/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/myengine2D.dir/glad.c.o"
-	/usr/bin/gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/myengine2D.dir/glad.c.o -MF CMakeFiles/myengine2D.dir/glad.c.o.d -o CMakeFiles/myengine2D.dir/glad.c.o -c "/home/marc/Desktop/OpenGL engine/MyEngine2D/code/glad.c"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/marc/Desktop/OpenGL engine/mar3bra/myengine2d/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/myengine2D.dir/glad.c.o"
+	/usr/bin/gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/myengine2D.dir/glad.c.o -MF CMakeFiles/myengine2D.dir/glad.c.o.d -o CMakeFiles/myengine2D.dir/glad.c.o -c "/home/marc/Desktop/OpenGL engine/mar3bra/myengine2d/glad.c"
 
 CMakeFiles/myengine2D.dir/glad.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/myengine2D.dir/glad.c.i"
-	/usr/bin/gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "/home/marc/Desktop/OpenGL engine/MyEngine2D/code/glad.c" > CMakeFiles/myengine2D.dir/glad.c.i
+	/usr/bin/gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "/home/marc/Desktop/OpenGL engine/mar3bra/myengine2d/glad.c" > CMakeFiles/myengine2D.dir/glad.c.i
 
 CMakeFiles/myengine2D.dir/glad.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/myengine2D.dir/glad.c.s"
-	/usr/bin/gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "/home/marc/Desktop/OpenGL engine/MyEngine2D/code/glad.c" -o CMakeFiles/myengine2D.dir/glad.c.s
+	/usr/bin/gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "/home/marc/Desktop/OpenGL engine/mar3bra/myengine2d/glad.c" -o CMakeFiles/myengine2D.dir/glad.c.s
 
 # Object files for target myengine2D
 myengine2D_OBJECTS = \
@@ -116,7 +116,7 @@ myengine2D: libCAMERA.a
 myengine2D: libENTITY.a
 myengine2D: libSCENE.a
 myengine2D: CMakeFiles/myengine2D.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/home/marc/Desktop/OpenGL engine/MyEngine2D/code/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable myengine2D"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/home/marc/Desktop/OpenGL engine/mar3bra/myengine2d/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable myengine2D"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/myengine2D.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -128,6 +128,6 @@ CMakeFiles/myengine2D.dir/clean:
 .PHONY : CMakeFiles/myengine2D.dir/clean
 
 CMakeFiles/myengine2D.dir/depend:
-	cd "/home/marc/Desktop/OpenGL engine/MyEngine2D/code/build" && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" "/home/marc/Desktop/OpenGL engine/MyEngine2D/code" "/home/marc/Desktop/OpenGL engine/MyEngine2D/code" "/home/marc/Desktop/OpenGL engine/MyEngine2D/code/build" "/home/marc/Desktop/OpenGL engine/MyEngine2D/code/build" "/home/marc/Desktop/OpenGL engine/MyEngine2D/code/build/CMakeFiles/myengine2D.dir/DependInfo.cmake" --color=$(COLOR)
+	cd "/home/marc/Desktop/OpenGL engine/mar3bra/myengine2d/build" && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" "/home/marc/Desktop/OpenGL engine/mar3bra/myengine2d" "/home/marc/Desktop/OpenGL engine/mar3bra/myengine2d" "/home/marc/Desktop/OpenGL engine/mar3bra/myengine2d/build" "/home/marc/Desktop/OpenGL engine/mar3bra/myengine2d/build" "/home/marc/Desktop/OpenGL engine/mar3bra/myengine2d/build/CMakeFiles/myengine2D.dir/DependInfo.cmake" --color=$(COLOR)
 .PHONY : CMakeFiles/myengine2D.dir/depend
 

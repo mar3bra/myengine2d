@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "/home/marc/Desktop/OpenGL engine/MyEngine2D/code"
+CMAKE_SOURCE_DIR = "/home/marc/Desktop/OpenGL engine/mar3bra/myengine2d"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "/home/marc/Desktop/OpenGL engine/MyEngine2D/code/build"
+CMAKE_BINARY_DIR = "/home/marc/Desktop/OpenGL engine/mar3bra/myengine2d/build"
 
 # Include any dependencies generated for this target.
 include CMakeFiles/CAMERA.dir/depend.make
@@ -72,16 +72,16 @@ include CMakeFiles/CAMERA.dir/flags.make
 CMakeFiles/CAMERA.dir/myEngine/Camera.cpp.o: CMakeFiles/CAMERA.dir/flags.make
 CMakeFiles/CAMERA.dir/myEngine/Camera.cpp.o: ../myEngine/Camera.cpp
 CMakeFiles/CAMERA.dir/myEngine/Camera.cpp.o: CMakeFiles/CAMERA.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/marc/Desktop/OpenGL engine/MyEngine2D/code/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/CAMERA.dir/myEngine/Camera.cpp.o"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CAMERA.dir/myEngine/Camera.cpp.o -MF CMakeFiles/CAMERA.dir/myEngine/Camera.cpp.o.d -o CMakeFiles/CAMERA.dir/myEngine/Camera.cpp.o -c "/home/marc/Desktop/OpenGL engine/MyEngine2D/code/myEngine/Camera.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/marc/Desktop/OpenGL engine/mar3bra/myengine2d/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/CAMERA.dir/myEngine/Camera.cpp.o"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CAMERA.dir/myEngine/Camera.cpp.o -MF CMakeFiles/CAMERA.dir/myEngine/Camera.cpp.o.d -o CMakeFiles/CAMERA.dir/myEngine/Camera.cpp.o -c "/home/marc/Desktop/OpenGL engine/mar3bra/myengine2d/myEngine/Camera.cpp"
 
 CMakeFiles/CAMERA.dir/myEngine/Camera.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CAMERA.dir/myEngine/Camera.cpp.i"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/marc/Desktop/OpenGL engine/MyEngine2D/code/myEngine/Camera.cpp" > CMakeFiles/CAMERA.dir/myEngine/Camera.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/marc/Desktop/OpenGL engine/mar3bra/myengine2d/myEngine/Camera.cpp" > CMakeFiles/CAMERA.dir/myEngine/Camera.cpp.i
 
 CMakeFiles/CAMERA.dir/myEngine/Camera.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CAMERA.dir/myEngine/Camera.cpp.s"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/marc/Desktop/OpenGL engine/MyEngine2D/code/myEngine/Camera.cpp" -o CMakeFiles/CAMERA.dir/myEngine/Camera.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/marc/Desktop/OpenGL engine/mar3bra/myengine2d/myEngine/Camera.cpp" -o CMakeFiles/CAMERA.dir/myEngine/Camera.cpp.s
 
 # Object files for target CAMERA
 CAMERA_OBJECTS = \
@@ -93,7 +93,7 @@ CAMERA_EXTERNAL_OBJECTS =
 libCAMERA.a: CMakeFiles/CAMERA.dir/myEngine/Camera.cpp.o
 libCAMERA.a: CMakeFiles/CAMERA.dir/build.make
 libCAMERA.a: CMakeFiles/CAMERA.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/home/marc/Desktop/OpenGL engine/MyEngine2D/code/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX static library libCAMERA.a"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/home/marc/Desktop/OpenGL engine/mar3bra/myengine2d/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX static library libCAMERA.a"
 	$(CMAKE_COMMAND) -P CMakeFiles/CAMERA.dir/cmake_clean_target.cmake
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/CAMERA.dir/link.txt --verbose=$(VERBOSE)
 
@@ -106,6 +106,6 @@ CMakeFiles/CAMERA.dir/clean:
 .PHONY : CMakeFiles/CAMERA.dir/clean
 
 CMakeFiles/CAMERA.dir/depend:
-	cd "/home/marc/Desktop/OpenGL engine/MyEngine2D/code/build" && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" "/home/marc/Desktop/OpenGL engine/MyEngine2D/code" "/home/marc/Desktop/OpenGL engine/MyEngine2D/code" "/home/marc/Desktop/OpenGL engine/MyEngine2D/code/build" "/home/marc/Desktop/OpenGL engine/MyEngine2D/code/build" "/home/marc/Desktop/OpenGL engine/MyEngine2D/code/build/CMakeFiles/CAMERA.dir/DependInfo.cmake" --color=$(COLOR)
+	cd "/home/marc/Desktop/OpenGL engine/mar3bra/myengine2d/build" && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" "/home/marc/Desktop/OpenGL engine/mar3bra/myengine2d" "/home/marc/Desktop/OpenGL engine/mar3bra/myengine2d" "/home/marc/Desktop/OpenGL engine/mar3bra/myengine2d/build" "/home/marc/Desktop/OpenGL engine/mar3bra/myengine2d/build" "/home/marc/Desktop/OpenGL engine/mar3bra/myengine2d/build/CMakeFiles/CAMERA.dir/DependInfo.cmake" --color=$(COLOR)
 .PHONY : CMakeFiles/CAMERA.dir/depend
 

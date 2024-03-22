@@ -1,8 +1,8 @@
 CMakeFiles/SHADER.dir/myEngine/Shader.cpp.o: \
- /home/marc/Desktop/OpenGL\ engine/MyEngine2D/code/myEngine/Shader.cpp \
+ /home/marc/Desktop/OpenGL\ engine/mar3bra/myengine2d/myEngine/Shader.cpp \
  /usr/include/stdc-predef.h \
- /home/marc/Desktop/OpenGL\ engine/MyEngine2D/code/myEngine/Shader.hpp \
- /home/marc/Desktop/OpenGL\ engine/MyEngine2D/code/myEngine/../glad.h \
+ /home/marc/Desktop/OpenGL\ engine/mar3bra/myengine2d/myEngine/Shader.hpp \
+ /home/marc/Desktop/OpenGL\ engine/mar3bra/myengine2d/myEngine/../glad.h \
  /usr/include/KHR/khrplatform.h \
  /usr/lib/gcc/x86_64-linux-gnu/11/include/stdint.h /usr/include/stdint.h \
  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \

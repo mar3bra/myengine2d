@@ -1,5 +1,5 @@
 CMakeFiles/myengine2D.dir/glad.c.o: \
- /home/marc/Desktop/OpenGL\ engine/MyEngine2D/code/glad.c \
+ /home/marc/Desktop/OpenGL\ engine/mar3bra/myengine2d/glad.c \
  /usr/include/stdc-predef.h /usr/include/stdio.h \
  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
  /usr/include/features.h /usr/include/features-time64.h \
@@ -51,7 +51,7 @@ CMakeFiles/myengine2D.dir/glad.c.o: \
  /usr/include/x86_64-linux-gnu/bits/types/locale_t.h \
  /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h \
  /usr/include/strings.h \
- /home/marc/Desktop/OpenGL\ engine/MyEngine2D/code/glad.h \
+ /home/marc/Desktop/OpenGL\ engine/mar3bra/myengine2d/glad.h \
  /usr/include/KHR/khrplatform.h \
  /usr/lib/gcc/x86_64-linux-gnu/11/include/stdint.h /usr/include/stdint.h \
  /usr/include/x86_64-linux-gnu/bits/wchar.h \

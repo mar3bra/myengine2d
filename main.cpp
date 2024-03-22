@@ -19,19 +19,14 @@ int main()
     Player player;
     Enemy enemy;
 
-    
     Scene scene;
 
     scene.addEntity(&enemy);
     scene.addEntity(&player);
 
     MyEngine me(SCR_WIDTH, SCR_HEIGHT, 0);
+    
     me.setScene(&scene);
     me.init();
     me.startMainLoop();
-}
-
-
-void myupdate(){
-    
 }

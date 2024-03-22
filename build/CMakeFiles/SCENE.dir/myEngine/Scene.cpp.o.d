@@ -1,8 +1,8 @@
 CMakeFiles/SCENE.dir/myEngine/Scene.cpp.o: \
- /home/marc/Desktop/OpenGL\ engine/MyEngine2D/code/myEngine/Scene.cpp \
+ /home/marc/Desktop/OpenGL\ engine/mar3bra/myengine2d/myEngine/Scene.cpp \
  /usr/include/stdc-predef.h \
- /home/marc/Desktop/OpenGL\ engine/MyEngine2D/code/myEngine/Scene.hpp \
- /home/marc/Desktop/OpenGL\ engine/MyEngine2D/code/myEngine/Entity.hpp \
+ /home/marc/Desktop/OpenGL\ engine/mar3bra/myengine2d/myEngine/Scene.hpp \
+ /home/marc/Desktop/OpenGL\ engine/mar3bra/myengine2d/myEngine/Entity.hpp \
  /usr/include/glm/glm.hpp /usr/include/glm/detail/_fixes.hpp \
  /usr/include/c++/11/cmath \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
@@ -313,8 +313,8 @@ CMakeFiles/SCENE.dir/myEngine/Scene.cpp.o: \
  /usr/include/c++/11/bits/stl_vector.h \
  /usr/include/c++/11/bits/stl_bvector.h \
  /usr/include/c++/11/bits/vector.tcc \
- /home/marc/Desktop/OpenGL\ engine/MyEngine2D/code/myEngine/Shader.hpp \
- /home/marc/Desktop/OpenGL\ engine/MyEngine2D/code/myEngine/../glad.h \
+ /home/marc/Desktop/OpenGL\ engine/mar3bra/myengine2d/myEngine/Shader.hpp \
+ /home/marc/Desktop/OpenGL\ engine/mar3bra/myengine2d/myEngine/../glad.h \
  /usr/include/KHR/khrplatform.h /usr/include/c++/11/fstream \
  /usr/include/c++/11/bits/codecvt.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/basic_file.h \

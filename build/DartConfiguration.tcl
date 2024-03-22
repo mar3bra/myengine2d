@@ -4,8 +4,8 @@
 
 
 # Configuration directories and files
-SourceDirectory: /home/marc/Desktop/OpenGL engine/MyEngine2D/code
-BuildDirectory: /home/marc/Desktop/OpenGL engine/MyEngine2D/code/build
+SourceDirectory: /home/marc/Desktop/OpenGL engine/mar3bra/myengine2d
+BuildDirectory: /home/marc/Desktop/OpenGL engine/mar3bra/myengine2d/build
 
 # Where to place the cost data store
 CostDataFile: 
@@ -26,7 +26,7 @@ SubmitURL: http://
 NightlyStartTime: 00:00:00 EDT
 
 # Commands for the build/test/submit cycle
-ConfigureCommand: "/usr/bin/cmake" "/home/marc/Desktop/OpenGL engine/MyEngine2D/code"
+ConfigureCommand: "/usr/bin/cmake" "/home/marc/Desktop/OpenGL engine/mar3bra/myengine2d"
 MakeCommand: /usr/bin/cmake --build . --config "${CTEST_CONFIGURATION_TYPE}" -- -i
 DefaultCTestConfigurationType: Release
 

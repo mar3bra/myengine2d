@@ -1,7 +1,7 @@
 CMakeFiles/ENTITY.dir/myEngine/Entity.cpp.o: \
- /home/marc/Desktop/OpenGL\ engine/MyEngine2D/code/myEngine/Entity.cpp \
+ /home/marc/Desktop/OpenGL\ engine/mar3bra/myengine2d/myEngine/Entity.cpp \
  /usr/include/stdc-predef.h \
- /home/marc/Desktop/OpenGL\ engine/MyEngine2D/code/myEngine/Entity.hpp \
+ /home/marc/Desktop/OpenGL\ engine/mar3bra/myengine2d/myEngine/Entity.hpp \
  /usr/include/glm/glm.hpp /usr/include/glm/detail/_fixes.hpp \
  /usr/include/c++/11/cmath \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
