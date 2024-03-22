@@ -1,1 +1,0 @@
-/usr/bin/g++ -g -rdynamic CMakeFiles/myengine2D.dir/main.cpp.o CMakeFiles/myengine2D.dir/glad.c.o -o myengine2D  libMYENGINE.a libPLAYER.a libENEMY.a -lglfw -lGL libSHADER.a -lglfw -lGL libCAMERA.a libENTITY.a libSCENE.a 
